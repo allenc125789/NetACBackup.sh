@@ -32,9 +32,6 @@ trap "" SIGTERM SIGINT && clear
     #: (3) Start: Launch the program using bash. You will be prompted with an options menu. Select Create-User and follow\
     #: the prompts to create a profile.
 
-    #: (3a) After a profile is created, you will need to edit it's Backup.list file manually outside the program. This\
-    #: file can contain the paths to desired files/folders to backup.
-
     #: (4) Finished: After setting Backup.list, you may start the program.
 
     #: (NOTE) If you set your profile as a Mapped Drive, you set the start your root (/) at the derictory you are mapped to.\
